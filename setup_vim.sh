@@ -8,3 +8,6 @@ vim +PluginInstall +qall
 echo "dont forget to install / update YoucompleteMe"
 echo "https://github.com/j1z0/dotfiles.git"
 
+echo "cd ~/.vim/bundle/YouCompleteMe"
+echo "python3 install.py"
+
